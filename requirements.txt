@@ -1,0 +1,3 @@
+django-phonenumber-field
+phonenumbers
+django == 2.2.7
